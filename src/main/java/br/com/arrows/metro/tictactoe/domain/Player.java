@@ -1,4 +1,4 @@
-package br.com.arrow.metro;
+package br.com.arrows.metro.tictactoe.domain;
 
 public class Player {
 
